@@ -31,3 +31,8 @@ Hypopg
 
 6. Initial the environment and train the EERL model by using this script.
 `python  ./eerl/main.py`
+
+# Code Reference
+
+AreCELearnedYet: https://github.com/sfu-db/AreCELearnedYet
+MSCN: https://github.com/andreaskipf/learnedcardinalities
